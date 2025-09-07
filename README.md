@@ -53,7 +53,7 @@ The following health metrics are used to predict heart disease risk:
    - Colored progress bars (green for low risk, red for high risk)  
    - Probability distribution bar chart  
 
-The ML model was trained on the **UCI Heart Disease Dataset** using **classification algorithms** like Random Forest or Logistic Regression (update with your actual model).
+The ML model was trained on the **UCI Heart Disease Dataset** using **classification algorithms** like Random Forest or Logistic Regression.
 
 ---
 
