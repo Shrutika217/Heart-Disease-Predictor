@@ -12,16 +12,6 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 
 ## Features
 
-- Predicts **low or high risk** of heart disease.
-- Shows **probability percentages** with **green/red progress bars**.
-- Visualizes probability distribution in a bar chart.
-- Easy-to-use interactive interface using **Streamlit**.
-- Uses a trained **ML model** and **scaler** for accurate predictions.
-
----
-
-## Features
-
 - **Predict Risk:** Determines whether a user has **low or high risk** of heart disease.  
 - **Probability Visualization:** Displays probabilities with **green/red progress bars** and a bar chart.  
 - **Interactive Interface:** Users can input their parameters using sliders, radio buttons, and drop-downs.  
@@ -69,4 +59,4 @@ The ML model was trained on the **UCI Heart Disease Dataset** using **classifica
 
 ## Author
 
-- **Shrutika Gupta**
+**Shrutika Gupta**
